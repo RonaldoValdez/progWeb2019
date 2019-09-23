@@ -1,0 +1,25 @@
+*{
+    background: black;
+    font-style: verdana;    
+}
+h1{
+    text-align: center;
+    background: blue;
+    color: white;
+    padding: 18px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+p1{
+    color: green;
+}
+
+a{
+    color: orange;
+    font-size: 1em;
+    
+}

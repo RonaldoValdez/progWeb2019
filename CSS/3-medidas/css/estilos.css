@@ -1,0 +1,18 @@
+h6{
+    font-size: 1in; /* Pulgadas*/
+    background: grey;
+    margin: 1cm;
+    width: 70%;
+}
+
+body{
+    width: 90%;
+}
+
+p{
+    font-size: 40px;
+
+}
+a{
+    font-size: 1em; /* esta unidad de medida es la mas utilizada de todas es relativo al valor que tenga el padre si son 40px pones 1em serian 80px*/
+}

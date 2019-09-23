@@ -1,0 +1,32 @@
+h1{
+    font-size: 40px;
+    /* Palabras clave 17 */
+    background: green;
+    color: brown;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    /* Colores hexadecimales */
+    background: #6c5ce7;
+    color:#00cec9;
+    text-align: center;
+}
+
+h3{
+    font-size: 40px;
+    /* rgb */
+    background: rgb(116, 185, 255);
+    color: rgb(0, 206, 201);
+    text-align: center;
+}
+
+h4{
+    font-size: 40px;
+    /* rgba */
+    background: rgba(9, 132, 227,1.1);
+    color: rgba(250, 177, 160,1.1);
+    text-align: center;
+}
+
